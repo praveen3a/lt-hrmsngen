@@ -1,3 +1,3 @@
-# this is lt-hrms next gen
+# This is lt-hrms next gen
 
 ## core-features
